@@ -11,7 +11,7 @@ Do **not** push your results into this repository. Either fork it and send us a 
 
 
 Feel free to do any extra work to improve the code such as testing etc.
-
+Also, if you have any questions, feel free to ask!
 
 # PHP Test
 
@@ -41,7 +41,7 @@ If no subject is given, it should return an error with the status code 400.
 ## Requirements
 
 - Use version PHP 5.6 (minimum)
-- Use SLIM Framework
+- Use SLIM Framework version 3 (install via composer)
 
 
 # JavaScript / React.js Test
@@ -65,7 +65,7 @@ As you can see above in the Mockup, there is a dropdown for the user to select a
 The selector will contain 3 subjects (Reading, Writing, Maths).
 
 **We have two use cases:**  
-1. If the user has not made any selection you should display a message "Select a subject above to view content" (or similar).
+1. If the user hasn't selected anything you should display a message "Select a subject above to view content" (or similar).
 2. If the user has selected a subject it should display a standard HTML list with the results for the selected subject.
 
 **How to fetch the data**  
@@ -83,6 +83,8 @@ be able to see the equivalent in roman numerals.
 Input: 5
 Output: V
 ```
+
+If you are not quite sure what roman numerals are or how they work, feel free to have a look [here](https://en.wikipedia.org/wiki/Roman_numerals)
 
 **Requirements**  
 Use the two objects we have provided in the roman-numerals.js file.  
