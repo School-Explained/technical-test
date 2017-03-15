@@ -10,7 +10,7 @@ This repository contains a description of a PHP and JavaScript Test we'd like yo
 Do **not** push your results into this repository. Either fork it and send us a link to your github repository or zip it up and send it to us.
 
 
-Feel free to do any extra work to improve the code such as testing etc.
+Feel free to do any extra work to improve the code such as testing etc.  
 Also, if you have any questions, feel free to ask!
 
 # PHP Test
