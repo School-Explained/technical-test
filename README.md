@@ -41,7 +41,9 @@ If no subject is given, it should return an error with the status code 400.
 ## Requirements
 
 - Use version PHP 5.6 (minimum)
-- Use SLIM Framework version 3 (install via composer)
+- Use SLIM Framework version 3 (install via composer) or Laravel 5.6
+- Docker compose
+- Slim and React to sit in the same project
 
 
 # JavaScript / React.js Test
@@ -96,3 +98,4 @@ the numbers 10 to 90 (in increments of 10) and their roman numeral equivalents.
 
 - Use React
 - Do *not* use any JQuery
+- Php and React to sit in the same project/repository
